@@ -8,4 +8,4 @@ I saved this version of the plugin for Obsidian so I don't have to wait for the 
 
 # How it works?
 **If you want to use this version of Excalidraw in your Obsidian Vault, you must move the contents of the "source" folder to the following path:
-*your vault folder*/.obsidian/plugins/obsidian-excalidraw-plugin/**
+\*your_vault_folder\*/.obsidian/plugins/obsidian-excalidraw-plugin/**
